@@ -7,4 +7,5 @@
 ![image](https://user-images.githubusercontent.com/93353985/183502631-3ed9bcac-3e95-44ad-b4ca-b9fdb1490078.png)
 ![image](https://user-images.githubusercontent.com/93353985/183502905-cacfbdbc-1444-4073-a28e-400e0aff2e9c.png)
 
-### Application developed in maratona explorer 3.0 taught by Rocketseat 🚀.
+### Js do maestro @matheralvs: 
+https://github.com/matheralvs/maratona-explorer-3.0/blob/main/js/script.js 🙌
