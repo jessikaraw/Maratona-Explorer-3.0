@@ -1,6 +1,7 @@
 # Maratona Explorer 3.0 🌟 
 
 📚 Projeto I: Criar um menu digital para um restaurante.
+https://jessikaraw.github.io/Maratona-Explorer-3.0/Index.html
 
 ![image](https://user-images.githubusercontent.com/93353985/183502543-98bea718-c67c-494c-ab07-eb86680bf61d.png)
 ![image](https://user-images.githubusercontent.com/93353985/183502588-3fe63663-de2e-4dc2-89f5-10d89a0c355a.png)
